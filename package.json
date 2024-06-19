@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-cypress",
+  "version": "1.0.0",
+  "description": "Bootcamp ministrado por Fábio Araújo - Junho/2024.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christineschutz/bootcamp-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christineschutz/bootcamp-cypress/issues"
+  },
+  "homepage": "https://github.com/christineschutz/bootcamp-cypress#readme",
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
+}
